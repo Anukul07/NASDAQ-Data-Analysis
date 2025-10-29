@@ -1,6 +1,6 @@
-#### NASDAQ Corporate Financial Analysis
+# NASDAQ Corporate Financial Analysis
 
-## This project retrieves, cleans, and analyzes corporate financial data from the Nasdaq Data Link API (using the MER/F1 table). The primary goal is to analyze the 'Accrued Expenses Turnover' metric to identify time-series trends and compare financial performance across geographical regions.
+#### This project retrieves, cleans, and analyzes corporate financial data from the Nasdaq Data Link API (using the MER/F1 table). The primary goal is to analyze the 'Accrued Expenses Turnover' metric to identify time-series trends and compare financial performance across geographical regions.
 
 ---
 
