@@ -51,29 +51,3 @@ A key part of the project was identifying and handling data integrity issues.
    Navigate to notebooks/financial_analysis.ipynb and run the cells.
 
 ---
-
-## Project structure
-
-The repository is organized to separate exploratory code from reusable functions and data.
-NASDAQ-Data-Analysis/
-├── .gitignore  
-├── README.md  
-├── environment.yml  
-├── .env  
-│
-├── notebooks/
-│ └── financial_analysis.ipynb # Main notebook with analysis
-│
-├── src/
-│ ├── **init**.py  
-│ ├── data_retrieval.py # Module for fetching data from the API
-│ └── analysis.py # Module for cleaning & enhancing data
-│
-├── data/
-│ ├── .gitignore  
-│ ├── raw/ # (Empty) For raw API output
-│ └── processed/ # (Empty) For cleaned data
-│
-└── charts/
-├── core_group_trend.png  
- └── country_avg_bar.png
